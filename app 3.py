@@ -26,7 +26,7 @@ st.header("Il mio ChatBot")
 
 from PIL import Image
 logo = Image.open("Chatbot.ia.png")
-st.image(logo, width=200)
+st.image(logo, width=350)
 # st.image(logo, use_column_width=True)
 
 # with st.sidebar:
